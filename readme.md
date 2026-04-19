@@ -14,14 +14,18 @@
 | 4   | Esztergom - Budapest             | HUN       | 60  | 1000      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_04.gpx%22%5D) | Do 13.8.26 Climb! |
 | 4a  | Esztergom - Budapest Var 500hm   | HUN       | 52  | 460       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_04a.gpx%22%5D) | Do 13.8.26, Variante mit 460HM nicht über den Berg |
 | 5   | Budapest                         | HUN       | 0   | 0         |                  | Fr 14.8.26 Ruhetag |
-| 6   | Budapest - Székesfehérvár        | HUN       | 90  | 360       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_06.gpx%22%5D) | Sa 15.8.26 |
-| 7   | Székesfehérvár - Szekszárd       | HUN       | 117 | 321       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_07.gpx%22%5D) | So 16.8.26 |
+| 6   | Budapest - Székesfehérvár        | HUN       | 90  | 430       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_06.gpx%22%5D) | Sa 15.8.26 |
+| 7   | Székesfehérvár - Szekszárd       | HUN       | 117 | 390       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_07.gpx%22%5D) | So 16.8.26 |
 | 8   | Szekszárd - Osijek               | HUN - HRV | 105 | 330       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_08.gpx%22%5D) | Mo 17.8.26, Grenzübertritt |
-| 9   | Osijek -  Bačka Palanka          | HRV - SRB | 107 | 400       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_09.gpx%22%5D) | Di 18.8.26 Stop in Vukovar, Grenzübertritt |
-| 10   | Bačka Palanka - Novi Sad        | SRB       | 50  | 50       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_10.gpx%22%5D) | Mi 19.8.26 Frühe Ankunft in Novi Sad |
-| 11   | Novi Sad - Belgrad              | SRB       | 100 | 500       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_11.gpx%22%5D) | Do 20.8.26 |
+| 9   | Osijek -  Bačka Palanka          | HRV - SRB | 105 | 380       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_09.gpx%22%5D) | Di 18.8.26 Stop in Vukovar, Grenzübertritt |
+| 10   | Bačka Palanka - Novi Sad        | SRB       | 50  | 70        | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_10.gpx%22%5D) | Mi 19.8.26 Frühe Ankunft in Novi Sad |
+| 11   | Novi Sad - Belgrad              | SRB       | 100 | 560       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_11.gpx%22%5D) | Do 20.8.26 |
 | 12   | Belgrad                         | SRB       | 0   | 0         |                  | Fr 21.8.26 Ruhetag / Rückreise Odi |
-| **Σ** | **Gesamt**      |      | **950** | **3600** | |
+| **Σ** | **Gesamt ca.**      |      | **920** | **3900** | |
+
+
+
+
 
 
 ### Teil 2 ###

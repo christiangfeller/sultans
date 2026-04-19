@@ -13,7 +13,7 @@
 | 15.08.26    | Székesfehérvár                   | Hotel, 3 Bett                     | https://www.booking.com/Share-2i2W3M  |  86 CHF   |
 | 16.08.26    | Szekszárd                        | Apart, 3 Bett                     | https://www.booking.com/Share-ekpmuum |  55 CHF   |
 | 17.08.26    | Osijek                           | Rooms, 3 Bett                     | https://www.booking.com/Share-NyewmQ  |  96 CHF   |
-| 18.08.26    | Bačka Palanka                    | Hotel, 2 Zimmer, FS inkl          | https://www.booking.com/Share-Sdty81V |  98 CHF   |
+| 18.08.26    | Bačka Palanka                    | Hotel, 1 Zimmer, FS inkl          | https://www.booking.com/Share-l7qhFB  |  60 CHF   |
 | 19.08.26    | Novi Sad                         | House, 3 Bett, FS inkl            | https://www.booking.com/Share-LH9H4xn |  90 CHF   |
 | 20.08.26    | Belgrad                          | Hotel, 3 Bett                     | https://www.booking.com/Share-sy1x5L  |  88 CHF   |
 | 21.08.26    | Belgrad                          | Hotel, 3 Bett                     | https://www.booking.com/Share-sy1x5L  |  88 CHF   |
