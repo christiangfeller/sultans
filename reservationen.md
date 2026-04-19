@@ -6,7 +6,7 @@
 |-------------|----------------------------------|-----------------------------------|---------------------------------------|-----------|
 | 09.08.26    | Wien                             | Hotel, 3 Bett, FS inkl            | https://www.booking.com/Share-UGlGeC  | 160 CHF   |
 | 10.08.26    | Bratislava                       | Apart, 3 Bett                     | https://www.booking.com/Share-XXxzln  | 112 CHF   |
-| 11.08.26    | Győr                             | Apart, 3 Bett                     | https://www.booking.com/Share-XXxzln  |  66 CHF   |
+| 11.08.26    | Győr                             | Apart, 3 Bett                     | https://www.booking.com/Share-Ax7j5HI |  66 CHF   |
 | 12.08.26    | Esztergom                        | Haus,  3 Bett                     | https://www.booking.com/Share-GL0YrxV | 134 CHF   |
 | 13.08.26    | Budapest                         | Studio, 2 Bett                    | https://www.booking.com/Share-xtwBrAn | 102 CHF   |
 | 14.08.26    | Budapest                         | Studio, 2 Bett                    | https://www.booking.com/Share-xtwBrAn | 102 CHF   |
